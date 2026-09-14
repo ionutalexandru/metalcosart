@@ -33,7 +33,7 @@ export default function Portfolio() {
 
           <div className="group relative h-72 overflow-hidden rounded-xl">
             <Image
-              src="/gallery-05.jpg"
+              src="/gallery-07.jpg"
               alt="Confecție și Sudură Cadru Metalic Greu"
               fill
               loading="lazy"

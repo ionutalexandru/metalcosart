@@ -22,11 +22,11 @@ export default function Hero() {
           <span className="badge">
             Din Botoșani în toată România • CAEN 2511
           </span>
-          <h1>Exelență în Structuri Metalice și Sudură Grea</h1>
+          <h1>Excelență în Structuri Metalice și Sudură Grea</h1>
           <p>
             La Metalcosart S.R.L. proiectăm, executăm și montăm structuri
             metalice de rezistență, hale industriale și confecții metalice
-            complexă. Oferim soluții durabile, de înaltă precizie, adaptate
+            complexe. Oferim soluții durabile, de înaltă precizie, adaptate
             standardelor pentru partenerii noștri din întreaga Românie.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-4">
