@@ -54,9 +54,10 @@ export default function About() {
           </div>
           <div className="relative h-96 overflow-hidden rounded-2xl shadow-2xl">
             <Image
-              src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
-              alt="Taller industrial Metalcosart"
+              src="/gallery-08.jpg"
+              alt="Metalcosart"
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover"
             />
           </div>

@@ -17,23 +17,25 @@ export default function Portfolio() {
         <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-3">
           <div className="group relative h-72 overflow-hidden rounded-xl">
             <Image
-              src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
+              src="/gallery-09.jpg"
               alt="Hala industrială"
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />
             <div className="absolute inset-0 flex items-end bg-linear-to-t from-zinc-950/80 via-transparent to-transparent p-6">
               <span className="font-semibold text-white">
-                Montaj Hală Industrială pe Structură Metalică
+                Montaj Hală Industrială
               </span>
             </div>
           </div>
 
           <div className="group relative h-72 overflow-hidden rounded-xl">
             <Image
-              src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
-              alt="Sudură de precizie"
+              src="/gallery-05.jpg"
+              alt="Confecție și Sudură Cadru Metalic Greu"
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />
             <div className="absolute inset-0 flex items-end bg-linear-to-t from-zinc-950/80 via-transparent to-transparent p-6">
@@ -45,14 +47,15 @@ export default function Portfolio() {
 
           <div className="group relative h-72 overflow-hidden rounded-xl">
             <Image
-              src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
-              alt="Estructura metálica detallada"
+              src="/gallery-01.jpg"
+              alt="Platformă Industrială și Scări de Acces"
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />
             <div className="absolute inset-0 flex items-end bg-linear-to-t from-zinc-950/80 via-transparent to-transparent p-6">
               <span className="font-semibold text-white">
-                Platformă Industrială și Scări de Acces
+                Confecții și Montaje Metalice Speciale
               </span>
             </div>
           </div>

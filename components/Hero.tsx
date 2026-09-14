@@ -6,7 +6,8 @@ export default function Hero() {
     <section id="hero" className="hero dark relative overflow-hidden">
       <div className="absolute inset-0 z-0 opacity-40 transition-opacity duration-1000">
         <Image
-          src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1920&q=80"
+          src="/gallery-12.jpg"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           alt="Sudură industrială structuri metalice"
           fill
           className="scale-105 animate-pulse object-cover duration-[10s]"
