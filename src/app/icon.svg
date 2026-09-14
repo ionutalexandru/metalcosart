@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#09090b" />
+  <text
+    x="16"
+    y="18"
+    text-anchor="middle"
+    dominant-baseline="central"
+    fill="#f59e0b"
+    font-family="system-ui, -apple-system, sans-serif"
+    font-weight="800"
+    font-size="20"
+  >
+    M
+  </text>
+</svg>
