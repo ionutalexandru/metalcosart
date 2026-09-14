@@ -20,6 +20,7 @@ export default function Portfolio() {
               src="/gallery-09.jpg"
               alt="Hala industrială"
               fill
+              loading="lazy"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />
@@ -35,6 +36,7 @@ export default function Portfolio() {
               src="/gallery-05.jpg"
               alt="Confecție și Sudură Cadru Metalic Greu"
               fill
+              loading="lazy"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />
@@ -50,6 +52,7 @@ export default function Portfolio() {
               src="/gallery-01.jpg"
               alt="Platformă Industrială și Scări de Acces"
               fill
+              loading="lazy"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover transition-transform duration-500 group-hover:scale-110"
             />

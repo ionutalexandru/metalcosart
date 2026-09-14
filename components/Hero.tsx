@@ -7,6 +7,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0 opacity-40 transition-opacity duration-1000">
         <Image
           src="/gallery-12.jpg"
+          loading="eager"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           alt="Sudură industrială structuri metalice"
           fill
